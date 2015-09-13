@@ -62,4 +62,4 @@ var sortFruit = function(){
 	console.log("Fruits are now sorted alphabetically.");
 };
 
-
+// Testing
