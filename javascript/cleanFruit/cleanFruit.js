@@ -62,6 +62,4 @@ var sortFruit = function(){
 	console.log("Fruits are now sorted alphabetically.");
 };
 
-// program start
-console.log("Welcome to Clean Fruit");
 
